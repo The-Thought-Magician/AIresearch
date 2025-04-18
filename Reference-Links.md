@@ -1,217 +1,228 @@
-- # Reference Links
-- /home/chiranjeetmishra/Desktop/Personal/blog/articles/Brain-Inspired-AI-Memory-Systems.md:https://www.linkedin.com/pulse/brain-inspired-ai-memory-systems-lessons-from-anand-ramachandran-ku6ee/
-- /home/chiranjeetmishra/Desktop/Personal/blog/articles/Brain-Inspired-AI-Memory-Systems.md:https://www.researchgate.net/publication/388856682_Brain-Inspired_AI_Memory_Systems_Lessons_from_Neuroscience_for_Advancing_Artificial_Intelligence_Architecture_and_Cognitive_Computing
-- /home/chiranjeetmishra/Desktop/Personal/blog/Brain-Inspired-Neural-LLM-Architecture.md:https://aclanthology.org/2024.emnlp-main.193.pdf
-- /home/chiranjeetmishra/Desktop/Personal/blog/Brain-Inspired-Neural-LLM-Architecture.md:https://arxiv.org/abs/2410.13768
-- /home/chiranjeetmishra/Desktop/Personal/blog/Brain-Inspired-Neural-LLM-Architecture.md:https://arxiv.org/abs/2503.11299
-- /home/chiranjeetmishra/Desktop/Personal/blog/Brain-Inspired-Neural-LLM-Architecture.md:https://arxiv.org/html/2402.09099v3
-- /home/chiranjeetmishra/Desktop/Personal/blog/Brain-Inspired-Neural-LLM-Architecture.md:https://arxiv.org/html/2402.09099v4
-- /home/chiranjeetmishra/Desktop/Personal/blog/Brain-Inspired-Neural-LLM-Architecture.md:https://arxiv.org/html/2408.14811v1
-- /home/chiranjeetmishra/Desktop/Personal/blog/Brain-Inspired-Neural-LLM-Architecture.md:https://arxiv.org/html/2412.08875v1
-- /home/chiranjeetmishra/Desktop/Personal/blog/Brain-Inspired-Neural-LLM-Architecture.md:https://arxiv.org/pdf/2410.20037.pdf
-- /home/chiranjeetmishra/Desktop/Personal/blog/Brain-Inspired-Neural-LLM-Architecture.md:https://aws.amazon.com/what-is/large-language-model/
-- /home/chiranjeetmishra/Desktop/Personal/blog/Brain-Inspired-Neural-LLM-Architecture.md:https://developer.nvidia.com/blog/introduction-to-llm-agents/
-- /home/chiranjeetmishra/Desktop/Personal/blog/Brain-Inspired-Neural-LLM-Architecture.md:https://developers.google.com/machine-learning/crash-course/neural-networks/nodes-hidden-layers
-- /home/chiranjeetmishra/Desktop/Personal/blog/Brain-Inspired-Neural-LLM-Architecture.md:https://docs.llamaindex.ai/en/stable/module_guides/indexing/vector_store_index/
-- /home/chiranjeetmishra/Desktop/Personal/blog/Brain-Inspired-Neural-LLM-Architecture.md:https://docs.n8n.io/integrations/builtin/cluster-nodes/root-nodes/n8n-nodes-langchain.vectorstoreinmemory/
-- /home/chiranjeetmishra/Desktop/Personal/blog/Brain-Inspired-Neural-LLM-Architecture.md:https://en.wikipedia.org/wiki/Artificial_neuron
-- /home/chiranjeetmishra/Desktop/Personal/blog/Brain-Inspired-Neural-LLM-Architecture.md:https://en.wikipedia.org/wiki/Biological_neuron_model
-- /home/chiranjeetmishra/Desktop/Personal/blog/Brain-Inspired-Neural-LLM-Architecture.md:https://en.wikipedia.org/wiki/Large_language_model
-- /home/chiranjeetmishra/Desktop/Personal/blog/Brain-Inspired-Neural-LLM-Architecture.md:https://en.wikipedia.org/wiki/Neural_network_(machine_learning
-- /home/chiranjeetmishra/Desktop/Personal/blog/Brain-Inspired-Neural-LLM-Architecture.md:https://github.com/cyanheads/model-context-protocol-resources/blob/main/guides/mcp-server-development-guide.md
-- /home/chiranjeetmishra/Desktop/Personal/blog/Brain-Inspired-Neural-LLM-Architecture.md:https://ispd.cc/ispd2025/slides/2024/protected/13_1_slides_final.pdf
-- /home/chiranjeetmishra/Desktop/Personal/blog/Brain-Inspired-Neural-LLM-Architecture.md:https://journals.physiology.org/doi/10.1152/ajpendo.2001.281.1.e100
-- /home/chiranjeetmishra/Desktop/Personal/blog/Brain-Inspired-Neural-LLM-Architecture.md:https://kili-technology.com/data-labeling/machine-learning/neural-network-architecture-all-you-need-to-know-as-an-mle-2023-edition
-- /home/chiranjeetmishra/Desktop/Personal/blog/Brain-Inspired-Neural-LLM-Architecture.md:https://lilianweng.github.io/posts/2023-06-23-agent/
-- /home/chiranjeetmishra/Desktop/Personal/blog/Brain-Inspired-Neural-LLM-Architecture.md:https://metaschool.so/articles/llm-architecture/
-- /home/chiranjeetmishra/Desktop/Personal/blog/Brain-Inspired-Neural-LLM-Architecture.md:https://neurons-lab.com/article/intro-to-llm-agents-with-langchain-when-rag-is-not-enough/
-- /home/chiranjeetmishra/Desktop/Personal/blog/Brain-Inspired-Neural-LLM-Architecture.md:https://openreview.net/forum?id=SkETBJRKH7
-- /home/chiranjeetmishra/Desktop/Personal/blog/Brain-Inspired-Neural-LLM-Architecture.md:https://openreview.net/forum?id=uXytIlC1iQ
-- /home/chiranjeetmishra/Desktop/Personal/blog/Brain-Inspired-Neural-LLM-Architecture.md:https://pmc.ncbi.nlm.nih.gov/articles/PMC10526164/
-- /home/chiranjeetmishra/Desktop/Personal/blog/Brain-Inspired-Neural-LLM-Architecture.md:https://pmc.ncbi.nlm.nih.gov/articles/PMC10752640/
-- /home/chiranjeetmishra/Desktop/Personal/blog/Brain-Inspired-Neural-LLM-Architecture.md:https://pmc.ncbi.nlm.nih.gov/articles/PMC5373033/
-- /home/chiranjeetmishra/Desktop/Personal/blog/Brain-Inspired-Neural-LLM-Architecture.md:https://wandb.ai/byyoung3/Generative-AI/reports/The-Model-Context-Protocol-MCP-A-Guide-for-AI-Integration--VmlldzoxMTgzNDgxOQ
-- /home/chiranjeetmishra/Desktop/Personal/blog/Brain-Inspired-Neural-LLM-Architecture.md:https://wandb.ai/mostafaibrahim17/ml-articles/reports/An-Overview-of-Large-Language-Models-LLMs---VmlldzozODA3MzQz
-- /home/chiranjeetmishra/Desktop/Personal/blog/Brain-Inspired-Neural-LLM-Architecture.md:https://webkul.com/blog/mcp-servers-new-ai-ecosystem/
-- /home/chiranjeetmishra/Desktop/Personal/blog/Brain-Inspired-Neural-LLM-Architecture.md:https://www.cloudflare.com/learning/ai/what-is-large-language-model/
-- /home/chiranjeetmishra/Desktop/Personal/blog/Brain-Inspired-Neural-LLM-Architecture.md:https://www.descope.com/learn/post/mcp
-- /home/chiranjeetmishra/Desktop/Personal/blog/Brain-Inspired-Neural-LLM-Architecture.md:https://www.devshorts.in/p/how-to-build-your-own-mcp-server
-- /home/chiranjeetmishra/Desktop/Personal/blog/Brain-Inspired-Neural-LLM-Architecture.md:https://www.doit.com/anatomy-of-an-llm/
-- /home/chiranjeetmishra/Desktop/Personal/blog/Brain-Inspired-Neural-LLM-Architecture.md:https://www.elastic.co/search-labs/blog/local-rag-agent-elasticsearch-langgraph-llama3
-- /home/chiranjeetmishra/Desktop/Personal/blog/Brain-Inspired-Neural-LLM-Architecture.md:https://www.frontiersin.org/journals/computational-neuroscience/articles/10.3389/fncom.2022.1006989/full
-- /home/chiranjeetmishra/Desktop/Personal/blog/Brain-Inspired-Neural-LLM-Architecture.md:https://www.frontiersin.org/journals/computational-neuroscience/articles/10.3389/fncom.2024.1367712/full
-- /home/chiranjeetmishra/Desktop/Personal/blog/Brain-Inspired-Neural-LLM-Architecture.md:https://www.frontiersin.org/journals/computational-neuroscience/articles/10.3389/fncom.2024.1395901/full
-- /home/chiranjeetmishra/Desktop/Personal/blog/Brain-Inspired-Neural-LLM-Architecture.md:https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2024.1458739/full
-- /home/chiranjeetmishra/Desktop/Personal/blog/Brain-Inspired-Neural-LLM-Architecture.md:https://www.k2view.com/blog/llm-agent-architecture/
-- /home/chiranjeetmishra/Desktop/Personal/blog/Brain-Inspired-Neural-LLM-Architecture.md:https://www.k2view.com/what-are-llm-agents/
-- /home/chiranjeetmishra/Desktop/Personal/blog/Brain-Inspired-Neural-LLM-Architecture.md:https://www.linkedin.com/pulse/mcp-explained-how-llms-can-now-use-any-tool-pierre-lemaire-iuwac
-- /home/chiranjeetmishra/Desktop/Personal/blog/Brain-Inspired-Neural-LLM-Architecture.md:https://www.nature.com/articles/s41467-023-41553-7
-- /home/chiranjeetmishra/Desktop/Personal/blog/Brain-Inspired-Neural-LLM-Architecture.md:https://www.nature.com/articles/s41598-024-84325-z
-- /home/chiranjeetmishra/Desktop/Personal/blog/Brain-Inspired-Neural-LLM-Architecture.md:https://www.pnas.org/doi/10.1073/pnas.2218173120
-- /home/chiranjeetmishra/Desktop/Personal/blog/Brain-Inspired-Neural-LLM-Architecture.md:https://www.promptingguide.ai/research/llm-agents
-- /home/chiranjeetmishra/Desktop/Personal/blog/Brain-Inspired-Neural-LLM-Architecture.md:https://www.sciencedirect.com/science/article/abs/pii/S0031320320302843
-- /home/chiranjeetmishra/Desktop/Personal/blog/Brain-Inspired-Neural-LLM-Architecture.md:https://www.sciencedirect.com/science/article/pii/S0893608021003543
-- /home/chiranjeetmishra/Desktop/Personal/blog/Brain-Inspired-Neural-LLM-Architecture.md:https://www.sciencedirect.com/science/article/pii/S1524070324000262
-- /home/chiranjeetmishra/Desktop/Personal/blog/Brain-Inspired-Neural-LLM-Architecture.md:https://www.sciencedirect.com/topics/chemistry/neurotransmitter
-- /home/chiranjeetmishra/Desktop/Personal/blog/Brain-Inspired-Neural-LLM-Architecture.md:https://www.simonsfoundation.org/2024/06/24/new-computational-model-of-real-neurons-could-lead-to-better-ai/
-- /home/chiranjeetmishra/Desktop/Personal/blog/Brain-Inspired-Neural-LLM-Architecture.md:https://www.superannotate.com/blog/llm-agents
-- /home/chiranjeetmishra/Desktop/Personal/blog/Brain-Inspired-Neural-LLM-Architecture.md:https://www.telecomreviewasia.com/news/featured-articles/4544-building-brain-inspired-networks-for-the-future
-- /home/chiranjeetmishra/Desktop/Personal/blog/Comprehensive-Resource-Compilation-for-Brain-Inspired-AI.md:https://arxiv.org/abs/2309.05263>
-- /home/chiranjeetmishra/Desktop/Personal/blog/Comprehensive-Resource-Compilation-for-Brain-Inspired-AI.md:https://deepgram.com/ai-glossary/neuroevolution>
-- /home/chiranjeetmishra/Desktop/Personal/blog/Comprehensive-Resource-Compilation-for-Brain-Inspired-AI.md:https://netflixtechblog.com/distributed-neural-networks-with-gpus-in-the-aws-cloud-ccf71e82056b>
-- /home/chiranjeetmishra/Desktop/Personal/blog/Comprehensive-Resource-Compilation-for-Brain-Inspired-AI.md:https://nn.cs.utexas.edu/downloads/papers/stanley.ec02.pdf>
-- /home/chiranjeetmishra/Desktop/Personal/blog/Comprehensive-Resource-Compilation-for-Brain-Inspired-AI.md:https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/30826882/eb510fd8-42c3-4278-9329-da3e11aadcea/paste-1.txt>
-- /home/chiranjeetmishra/Desktop/Personal/blog/Comprehensive-Resource-Compilation-for-Brain-Inspired-AI.md:https://rossdawson.com/futurist/companies-creating-future/leading-brain-computer-interface-companies-bci/>
-- /home/chiranjeetmishra/Desktop/Personal/blog/Comprehensive-Resource-Compilation-for-Brain-Inspired-AI.md:https://spj.science.org/doi/10.34133/research.0646>
-- /home/chiranjeetmishra/Desktop/Personal/blog/Comprehensive-Resource-Compilation-for-Brain-Inspired-AI.md:https://www.alphanome.ai/post/neuroevolution-a-guide-for-investors>
-- /home/chiranjeetmishra/Desktop/Personal/blog/Comprehensive-Resource-Compilation-for-Brain-Inspired-AI.md:https://www.cwi.nl/en/groups/evolutionary-intelligence/>
-- /home/chiranjeetmishra/Desktop/Personal/blog/Comprehensive-Resource-Compilation-for-Brain-Inspired-AI.md:https://www.eletimes.com/top-10-brain-computer-interface-companies-in-the-world>
-- /home/chiranjeetmishra/Desktop/Personal/blog/Comprehensive-Resource-Compilation-for-Brain-Inspired-AI.md:https://www.emergenresearch.com/blog/top-10-leading-companies-that-offer-pioneering-deep-learning-solutions>
-- /home/chiranjeetmishra/Desktop/Personal/blog/Comprehensive-Resource-Compilation-for-Brain-Inspired-AI.md:https://www.irejournals.com/formatedpaper/1705504.pdf>
-- /home/chiranjeetmishra/Desktop/Personal/blog/Comprehensive-Resource-Compilation-for-Brain-Inspired-AI.md:https://www.linkedin.com/pulse/brain-inspired-ai-memory-systems-lessons-from-anand-ramachandran-ku6ee>
-- /home/chiranjeetmishra/Desktop/Personal/blog/Comprehensive-Resource-Compilation-for-Brain-Inspired-AI.md:https://www.pnas.org/doi/10.1073/pnas.2218173120>
-- /home/chiranjeetmishra/Desktop/Personal/blog/Comprehensive-Resource-Compilation-for-Brain-Inspired-AI.md:https://www.sciencedirect.com/science/article/pii/S295016282300005X>
-- /home/chiranjeetmishra/Desktop/Personal/blog/Comprehensive-Resource-Compilation-for-Brain-Inspired-AI.md:https://www.telecomreviewasia.com/news/featured-articles/4544-building-brain-inspired-networks-for-the-future>
-- /home/chiranjeetmishra/Desktop/Personal/blog/Evolutionary-Neural-LLM-Architecture.md:https://academic.oup.com/ije/article/30/3/515/736918
-- /home/chiranjeetmishra/Desktop/Personal/blog/Evolutionary-Neural-LLM-Architecture.md:https://adasci.org/creating-neural-network-architecture-drawings-with-nn-svg/
-- /home/chiranjeetmishra/Desktop/Personal/blog/Evolutionary-Neural-LLM-Architecture.md:https://aimresearch.co/generative-ai/the-evolution-of-ai-architecture-from-traditional-machine-learning-to-generative-ai
-- /home/chiranjeetmishra/Desktop/Personal/blog/Evolutionary-Neural-LLM-Architecture.md:https://arxiv.org/abs/2403.02667
-- /home/chiranjeetmishra/Desktop/Personal/blog/Evolutionary-Neural-LLM-Architecture.md:https://arxiv.org/abs/2502.00829
-- /home/chiranjeetmishra/Desktop/Personal/blog/Evolutionary-Neural-LLM-Architecture.md:https://github.com/evolutionary-architecture/evolutionary-architecture-by-example
-- /home/chiranjeetmishra/Desktop/Personal/blog/Evolutionary-Neural-LLM-Architecture.md:https://neptune.ai/blog/graph-neural-network-and-some-of-gnn-applications
-- /home/chiranjeetmishra/Desktop/Personal/blog/Evolutionary-Neural-LLM-Architecture.md:https://pmc.ncbi.nlm.nih.gov/articles/PMC7218605/
-- /home/chiranjeetmishra/Desktop/Personal/blog/Evolutionary-Neural-LLM-Architecture.md:https://research.google/blog/using-evolutionary-automl-to-discover-neural-network-architectures/
-- /home/chiranjeetmishra/Desktop/Personal/blog/Evolutionary-Neural-LLM-Architecture.md:https://www.diva-portal.org/smash/get/diva2:1851620/FULLTEXT01.pdf
-- /home/chiranjeetmishra/Desktop/Personal/blog/Evolutionary-Neural-LLM-Architecture.md:https://www.frontiersin.org/journals/computational-neuroscience/articles/10.3389/fncom.2023.1092185/full
-- /home/chiranjeetmishra/Desktop/Personal/blog/Evolutionary-Neural-LLM-Architecture.md:https://www.humanbrainproject.eu/science-development/focus-areas/brain-inspired-cognitive-architectures/
-- /home/chiranjeetmishra/Desktop/Personal/blog/Evolutionary-Neural-LLM-Architecture.md:https://www.liquid.ai/research/automated-architecture-synthesis-via-targeted-evolution
-- /home/chiranjeetmishra/Desktop/Personal/blog/Evolutionary-Neural-LLM-Architecture.md:https://www.mdpi.com/2313-7673/9/10/646
-- /home/chiranjeetmishra/Desktop/Personal/blog/Evolutionary-Neural-LLM-Architecture.md:https://www.microsoft.com/en-us/research/blog/innovations-in-ai-brain-inspired-design-for-more-capable-and-sustainable-technology/
-- /home/chiranjeetmishra/Desktop/Personal/blog/Evolutionary-Neural-LLM-Architecture.md:https://www.nature.com/articles/s41598-023-37540-z
-- /home/chiranjeetmishra/Desktop/Personal/blog/Evolutionary-Neural-LLM-Architecture.md:https://www.nature.com/articles/s41598-023-42931-3
-- /home/chiranjeetmishra/Desktop/Personal/blog/Evolutionary-Neural-LLM-Architecture.md:https://www.sciencedirect.com/science/article/abs/pii/S0950705122006001
-- /home/chiranjeetmishra/Desktop/Personal/blog/Evolutionary-Neural-LLM-Architecture.md:https://www.upgrad.com/blog/neural-network-architecture-components-algorithms/
-- /home/chiranjeetmishra/Desktop/Personal/blog/Evolutionary-Neural-LLM-Architecture.md:https://www.upgrad.com/blog/types-artificial-neural-networks-in-machine-language/
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Network-Notes.md:https://ars.els-cdn.com/content/image/1-s2.0-S1364815204001185-gr1.jpg
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Network-Notes.md:https://miro.medium.com/max/2658/1*Ismhi-muID5ooWf3ZIQFFg.png
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Network-Notes.md:https://www.mygreatlearning.com/
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Network-Notes.md:https://www.mygreatlearning.com/academy
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Network-Notes.md:https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-deep-learning
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Network-Notes.md:https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-natural-language-processing
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Network-Notes.md:https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-neural-networks1
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Network-Notes.md:https://www.mygreatlearning.com/academy/learn-for-free/courses/multilayer-perceptron
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Network-Notes.md:https://www.mygreatlearning.com/blog/backpropagation-algorithm/
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Network-Notes.md:https://www.mygreatlearning.com/blog/basics-of-building-an-artificial-intelligence-chatbot/
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Network-Notes.md:https://www.mygreatlearning.com/blog/cnn-model-architectures-and-applications/
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Network-Notes.md:https://www.mygreatlearning.com/blog/computer-vision-a-case-study-transfer-learning/
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Network-Notes.md:https://www.mygreatlearning.com/blog/face-recognition/
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Network-Notes.md:https://www.mygreatlearning.com/blog/free-download-datasets/
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Network-Notes.md:https://www.mygreatlearning.com/blog/how-it-is-using-analytics-to-solve-industry-problems/
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Network-Notes.md:https://www.mygreatlearning.com/blog/introduction-to-image-processing-what-is-image-processing/
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Network-Notes.md:https://www.mygreatlearning.com/blog/introduction-to-spectral-clustering/
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Network-Notes.md:https://www.mygreatlearning.com/blog/most-used-machine-learning-algorithms-in-python/
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Network-Notes.md:https://www.mygreatlearning.com/blog/perceptron-learning-algorithm/
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Network-Notes.md:https://www.mygreatlearning.com/blog/recurrent-neural-network/
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Network-Notes.md:https://www.mygreatlearning.com/blog/speech-recognition-python/
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Network-Notes.md:https://www.mygreatlearning.com/blog/the-vanishing-gradient-problem/
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Network-Notes.md:https://www.mygreatlearning.com/blog/top-speech-recognition-software/
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Network-Notes.md:https://www.mygreatlearning.com/blog/transportation-problem-explained/
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Network-Notes.md:https://www.mygreatlearning.com/blog/types-of-neural-networks/
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Network-Notes.md:https://www.mygreatlearning.com/blog/we-used-sentiment-analysis-to-get-more-insights-into-customer-feedback/
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Network-Notes.md:https://www.mygreatlearning.com/blog/what-is-computer-vision-the-basics/
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Network-Notes.md:https://www.mygreatlearning.com/blog/what-is-deep-learning/
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Network-Notes.md:https://www.mygreatlearning.com/blog/wp-content/uploads/2020/05/Blog-images_21_5_2020-01-1024x683.jpg
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Network-Notes.md:https://www.mygreatlearning.com/blog/wp-content/uploads/2020/05/Blog-images_21_5_2020-02-1024x683.jpg
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Network-Notes.md:https://www.mygreatlearning.com/blog/wp-content/uploads/2020/05/Blog-images_21_5_2020-03-1024x683.jpg
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Network-Notes.md:https://www.mygreatlearning.com/blog/wp-content/uploads/2020/05/Blog-NN-info-22-5-2020-02-min-318x1024.png
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Network-Notes.md:https://www.mygreatlearning.com/blog/wp-content/uploads/2021/09/Screenshot-2022-04-05T120314.852.png
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Network-Notes.md:https://www.mygreatlearning.com/blog/wp-content/uploads/2022/04/image.png
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Network-Notes.md:https://www.mygreatlearning.com/blog/wp-content/uploads/2022/08/May-5_types-of-neural-network_infographic.png
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Network-Notes.md:https://www.mygreatlearning.com/pg-program-artificial-intelligence-course
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Network-Notes.md:https://www.researchgate.net/figure/RNN-simple-cell-versus-LSTM-cell-4_fig2_317954962
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Networks-Compilation.md:https://ars.els-cdn.com/content/image/1-s2.0-S1364815204001185-gr1.jpg
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Networks-Compilation.md:https://freecontent.manning.com/neural-network-architectures/
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Networks-Compilation.md:https://miro.medium.com/max/2658/1*Ismhi-muID5ooWf3ZIQFFg.png
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Networks-Compilation.md:https://www.facebook.com/Spiceworks/
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Networks-Compilation.md:https://www.linkedin.com/company/spiceworks//
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Networks-Compilation.md:https://www.mygreatlearning.com/
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Networks-Compilation.md:https://www.mygreatlearning.com/academy
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Networks-Compilation.md:https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-deep-learning
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Networks-Compilation.md:https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-natural-language-processing
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Networks-Compilation.md:https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-neural-networks1
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Networks-Compilation.md:https://www.mygreatlearning.com/academy/learn-for-free/courses/multilayer-perceptron
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Networks-Compilation.md:https://www.mygreatlearning.com/blog/backpropagation-algorithm/
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Networks-Compilation.md:https://www.mygreatlearning.com/blog/basics-of-building-an-artificial-intelligence-chatbot/
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Networks-Compilation.md:https://www.mygreatlearning.com/blog/cnn-model-architectures-and-applications/
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Networks-Compilation.md:https://www.mygreatlearning.com/blog/computer-vision-a-case-study-transfer-learning/
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Networks-Compilation.md:https://www.mygreatlearning.com/blog/face-recognition/
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Networks-Compilation.md:https://www.mygreatlearning.com/blog/free-download-datasets/
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Networks-Compilation.md:https://www.mygreatlearning.com/blog/how-it-is-using-analytics-to-solve-industry-problems/
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Networks-Compilation.md:https://www.mygreatlearning.com/blog/introduction-to-image-processing-what-is-image-processing/
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Networks-Compilation.md:https://www.mygreatlearning.com/blog/introduction-to-spectral-clustering/
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Networks-Compilation.md:https://www.mygreatlearning.com/blog/most-used-machine-learning-algorithms-in-python/
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Networks-Compilation.md:https://www.mygreatlearning.com/blog/perceptron-learning-algorithm/
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Networks-Compilation.md:https://www.mygreatlearning.com/blog/recurrent-neural-network/
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Networks-Compilation.md:https://www.mygreatlearning.com/blog/speech-recognition-python/
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Networks-Compilation.md:https://www.mygreatlearning.com/blog/the-vanishing-gradient-problem/
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Networks-Compilation.md:https://www.mygreatlearning.com/blog/top-speech-recognition-software/
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Networks-Compilation.md:https://www.mygreatlearning.com/blog/transportation-problem-explained/
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Networks-Compilation.md:https://www.mygreatlearning.com/blog/we-used-sentiment-analysis-to-get-more-insights-into-customer-feedback/
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Networks-Compilation.md:https://www.mygreatlearning.com/blog/what-is-computer-vision-the-basics/
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Networks-Compilation.md:https://www.mygreatlearning.com/blog/what-is-deep-learning/
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Networks-Compilation.md:https://www.mygreatlearning.com/blog/wp-content/uploads/2020/05/Blog-images_21_5_2020-01-1024x683.jpg
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Networks-Compilation.md:https://www.mygreatlearning.com/blog/wp-content/uploads/2020/05/Blog-images_21_5_2020-02-1024x683.jpg
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Networks-Compilation.md:https://www.mygreatlearning.com/blog/wp-content/uploads/2020/05/Blog-images_21_5_2020-03-1024x683.jpg
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Networks-Compilation.md:https://www.mygreatlearning.com/blog/wp-content/uploads/2020/05/Blog-NN-info-22-5-2020-02-min-318x1024.png
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Networks-Compilation.md:https://www.mygreatlearning.com/blog/wp-content/uploads/2021/09/Screenshot-2022-04-05T120314.852.png
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Networks-Compilation.md:https://www.mygreatlearning.com/blog/wp-content/uploads/2022/04/image.png
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Networks-Compilation.md:https://www.mygreatlearning.com/blog/wp-content/uploads/2022/08/May-5_types-of-neural-network_infographic.png
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Networks-Compilation.md:https://www.mygreatlearning.com/pg-program-artificial-intelligence-course
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Networks-Compilation.md:https://www.researchgate.net/figure/RNN-simple-cell-versus-LSTM-cell-4_fig2_317954962
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Networks-Compilation.md:https://www.spiceworks.com/tech/artificial-intelligence/articles/best-ai-companies/
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Networks-Compilation.md:https://www.spiceworks.com/tech/artificial-intelligence/articles/best-machine-learning-books-to-read/
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Networks-Compilation.md:https://www.spiceworks.com/tech/artificial-intelligence/articles/data-science-vs-machine-learning-top-differences/
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Networks-Compilation.md:https://www.spiceworks.com/tech/artificial-intelligence/articles/speech-recognition-software/
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Networks-Compilation.md:https://www.spiceworks.com/tech/artificial-intelligence/articles/super-artificial-intelligence/
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Networks-Compilation.md:https://www.spiceworks.com/tech/artificial-intelligence/articles/top-ml-algorithms/
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Networks-Compilation.md:https://www.spiceworks.com/tech/artificial-intelligence/articles/what-is-ai/
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Networks-Compilation.md:https://www.spiceworks.com/tech/artificial-intelligence/articles/what-is-computer-vision/
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Networks-Compilation.md:https://www.spiceworks.com/tech/artificial-intelligence/articles/what-is-deep-learning/
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Networks-Compilation.md:https://www.spiceworks.com/tech/artificial-intelligence/articles/what-is-general-ai/
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Networks-Compilation.md:https://www.spiceworks.com/tech/artificial-intelligence/articles/what-is-linear-regression/
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Networks-Compilation.md:https://www.spiceworks.com/tech/artificial-intelligence/articles/what-is-ml/
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Networks-Compilation.md:https://www.spiceworks.com/tech/artificial-intelligence/articles/what-is-narrow-ai/
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Networks-Compilation.md:https://www.spiceworks.com/tech/cloud/articles/artificial-intelligence-as-a-service/#
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Networks-Compilation.md:https://www.spiceworks.com/tech/innovation/articles/top-open-source-artificial-intelligence-software/
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Networks-Compilation.md:https://x.com/ToolboxforB2B
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Networks-Compilation.md:https://zd-brightspot.s3.us-east-1.amazonaws.com/wp-content/uploads/2022/05/18113202/The-Architecture-of-a-Neural-Network.png
-- /home/chiranjeetmishra/Desktop/Personal/blog/Neural-Networks-Compilation.md:https://zd-brightspot.s3.us-east-1.amazonaws.com/wp-content/uploads/2022/05/20050302/Types-of-Neural-Networks.png
-- /home/chiranjeetmishra/Desktop/Personal/blog/Peer-Reviews.md:https://arxiv.org/abs/2401.10510
-- /home/chiranjeetmishra/Desktop/Personal/blog/Peer-Reviews.md:https://nn.cs.utexas.edu/downloads/papers/stanley.ec02.pdf
-- /home/chiranjeetmishra/Desktop/Personal/blog/Peer-Reviews.md:https://openreview.net/forum?id=ZG3RaNIsO8
-- /home/chiranjeetmishra/Desktop/Personal/blog/Peer-Reviews.md:https://www.cwi.nl/en/groups/evolutionary-intelligence/
-- /home/chiranjeetmishra/Desktop/Personal/blog/Peer-Reviews.md:https://www.pnas.org/doi/10.1073/pnas.2218173120
-- /home/chiranjeetmishra/Desktop/Personal/blog/Peer-Reviews.md:https://www.sciencedirect.com/science/article/pii/S295016282300005X
-- /home/chiranjeetmishra/Desktop/Personal/blog/Peer-Reviews.md:https://www.telecomreviewasia.com/news/featured-articles/4544-building-brain-inspired-networks-for-the-future
-- /home/chiranjeetmishra/Desktop/Personal/blog/What-Is-a-Neural-Network-and-its-Types.md:https://freecontent.manning.com/neural-network-architectures/
-- /home/chiranjeetmishra/Desktop/Personal/blog/What-Is-a-Neural-Network-and-its-Types.md:https://www.facebook.com/Spiceworks/
-- /home/chiranjeetmishra/Desktop/Personal/blog/What-Is-a-Neural-Network-and-its-Types.md:https://www.linkedin.com/company/spiceworks//
-- /home/chiranjeetmishra/Desktop/Personal/blog/What-Is-a-Neural-Network-and-its-Types.md:https://www.spiceworks.com/tech/artificial-intelligence/articles/best-ai-companies/
-- /home/chiranjeetmishra/Desktop/Personal/blog/What-Is-a-Neural-Network-and-its-Types.md:https://www.spiceworks.com/tech/artificial-intelligence/articles/best-machine-learning-books-to-read/
-- /home/chiranjeetmishra/Desktop/Personal/blog/What-Is-a-Neural-Network-and-its-Types.md:https://www.spiceworks.com/tech/artificial-intelligence/articles/data-science-vs-machine-learning-top-differences/
-- /home/chiranjeetmishra/Desktop/Personal/blog/What-Is-a-Neural-Network-and-its-Types.md:https://www.spiceworks.com/tech/artificial-intelligence/articles/speech-recognition-software/
-- /home/chiranjeetmishra/Desktop/Personal/blog/What-Is-a-Neural-Network-and-its-Types.md:https://www.spiceworks.com/tech/artificial-intelligence/articles/super-artificial-intelligence/
-- /home/chiranjeetmishra/Desktop/Personal/blog/What-Is-a-Neural-Network-and-its-Types.md:https://www.spiceworks.com/tech/artificial-intelligence/articles/top-ml-algorithms/
-- /home/chiranjeetmishra/Desktop/Personal/blog/What-Is-a-Neural-Network-and-its-Types.md:https://www.spiceworks.com/tech/artificial-intelligence/articles/what-is-ai/
-- /home/chiranjeetmishra/Desktop/Personal/blog/What-Is-a-Neural-Network-and-its-Types.md:https://www.spiceworks.com/tech/artificial-intelligence/articles/what-is-a-neural-network/
-- /home/chiranjeetmishra/Desktop/Personal/blog/What-Is-a-Neural-Network-and-its-Types.md:https://www.spiceworks.com/tech/artificial-intelligence/articles/what-is-computer-vision/
-- /home/chiranjeetmishra/Desktop/Personal/blog/What-Is-a-Neural-Network-and-its-Types.md:https://www.spiceworks.com/tech/artificial-intelligence/articles/what-is-deep-learning/
-- /home/chiranjeetmishra/Desktop/Personal/blog/What-Is-a-Neural-Network-and-its-Types.md:https://www.spiceworks.com/tech/artificial-intelligence/articles/what-is-general-ai/
-- /home/chiranjeetmishra/Desktop/Personal/blog/What-Is-a-Neural-Network-and-its-Types.md:https://www.spiceworks.com/tech/artificial-intelligence/articles/what-is-linear-regression/
-- /home/chiranjeetmishra/Desktop/Personal/blog/What-Is-a-Neural-Network-and-its-Types.md:https://www.spiceworks.com/tech/artificial-intelligence/articles/what-is-ml/
-- /home/chiranjeetmishra/Desktop/Personal/blog/What-Is-a-Neural-Network-and-its-Types.md:https://www.spiceworks.com/tech/artificial-intelligence/articles/what-is-narrow-ai/
-- /home/chiranjeetmishra/Desktop/Personal/blog/What-Is-a-Neural-Network-and-its-Types.md:https://www.spiceworks.com/tech/cloud/articles/artificial-intelligence-as-a-service/#
-- /home/chiranjeetmishra/Desktop/Personal/blog/What-Is-a-Neural-Network-and-its-Types.md:https://www.spiceworks.com/tech/innovation/articles/top-open-source-artificial-intelligence-software/
-- /home/chiranjeetmishra/Desktop/Personal/blog/What-Is-a-Neural-Network-and-its-Types.md:https://x.com/ToolboxforB2B
-- /home/chiranjeetmishra/Desktop/Personal/blog/What-Is-a-Neural-Network-and-its-Types.md:https://zd-brightspot.s3.us-east-1.amazonaws.com/wp-content/uploads/2022/05/18113202/The-Architecture-of-a-Neural-Network.png
-- /home/chiranjeetmishra/Desktop/Personal/blog/What-Is-a-Neural-Network-and-its-Types.md:https://zd-brightspot.s3.us-east-1.amazonaws.com/wp-content/uploads/2022/05/20050302/Types-of-Neural-Networks.png
+# Reference Links
+
+## Articles
+
+### Brain-Inspired AI Memory Systems
+
+- [Brain-Inspired AI Memory Systems (LinkedIn)](https://www.linkedin.com/pulse/brain-inspired-ai-memory-systems-lessons-from-anand-ramachandran-ku6ee/)
+- [Brain-Inspired AI Memory Systems PDF (ResearchGate)](https://www.researchgate.net/publication/388856682_Brain-Inspired_AI_Memory_Systems_Lessons_from_Neuroscience_for_Advancing_Artificial_Intelligence_Architecture_and_Cognitive_Computing)
+
+## Tutorials & Notes
+
+### Brain-Inspired Neural LLM Architecture
+
+- [EMNLP 2024 Paper (ACL Anthology)](https://aclanthology.org/2024.emnlp-main.193.pdf)
+- [ArXiv:2410.13768](https://arxiv.org/abs/2410.13768)
+- [ArXiv:2503.11299](https://arxiv.org/abs/2503.11299)
+- [ArXiv HTML v3 (2402.09099v3)](https://arxiv.org/html/2402.09099v3)
+- [ArXiv HTML v4 (2402.09099v4)](https://arxiv.org/html/2402.09099v4)
+- [ArXiv HTML v1 (2408.14811v1)](https://arxiv.org/html/2408.14811v1)
+- [ArXiv HTML v1 (2412.08875v1)](https://arxiv.org/html/2412.08875v1)
+- [ArXiv PDF (2410.20037)](https://arxiv.org/pdf/2410.20037.pdf)
+- [AWS: What is a Large Language Model?](https://aws.amazon.com/what-is/large-language-model/)
+- [NVIDIA: Introduction to LLM Agents](https://developer.nvidia.com/blog/introduction-to-llm-agents/)
+- [Google ML Crash Course: Nodes & Hidden Layers](https://developers.google.com/machine-learning/crash-course/neural-networks/nodes-hidden-layers)
+- [LlamaIndex Vector Store Index Guide](https://docs.llamaindex.ai/en/stable/module_guides/indexing/vector_store_index/)
+- [n8n LangChain In-Memory Vector Store](https://docs.n8n.io/integrations/builtin/cluster-nodes/root-nodes/n8n-nodes-langchain.vectorstoreinmemory/)
+- [Wikipedia: Artificial Neuron](https://en.wikipedia.org/wiki/Artificial_neuron)
+- [Wikipedia: Biological Neuron Model](https://en.wikipedia.org/wiki/Biological_neuron_model)
+- [Wikipedia: Large Language Model](https://en.wikipedia.org/wiki/Large_language_model)
+- [Wikipedia: Neural Network (machine learning)](https://en.wikipedia.org/wiki/Neural_network_(machine_learning))
+- [MCP Server Dev Guide (GitHub)](https://github.com/cyanheads/model-context-protocol-resources/blob/main/guides/mcp-server-development-guide.md)
+- [ISPD2025 Slides (PDF)](https://ispd.cc/ispd2025/slides/2024/protected/13_1_slides_final.pdf)
+- [AJP Endocrinology DOI](https://journals.physiology.org/doi/10.1152/ajpendo.2001.281.1.e100)
+- [Kili Tech: Neural Network Architecture (2023)](https://kili-technology.com/data-labeling/machine-learning/neural-network-architecture-all-you-need-to-know-as-an-mle-2023-edition)
+- [Lilian Weng: Agent Design](https://lilianweng.github.io/posts/2023-06-23-agent/)
+- [MetaSchool: LLM Architecture](https://metaschool.so/articles/llm-architecture/)
+- [Neurons Lab: Intro to LLM Agents](https://neurons-lab.com/article/intro-to-llm-agents-with-langchain-when-rag-is-not-enough/)
+- [OpenReview: SkETBJRKH7](https://openreview.net/forum?id=SkETBJRKH7)
+- [OpenReview: uXytIlC1iQ](https://openreview.net/forum?id=uXytIlC1iQ)
+- [PMC Article 10526164](https://pmc.ncbi.nlm.nih.gov/articles/PMC10526164/)
+- [PMC Article 10752640](https://pmc.ncbi.nlm.nih.gov/articles/PMC10752640/)
+- [PMC Article 5373033](https://pmc.ncbi.nlm.nih.gov/articles/PMC5373033/)
+- [WandB: MCP Integration Guide](https://wandb.ai/byyoung3/Generative-AI/reports/The-Model-Context-Protocol-MCP-A-Guide-for-AI-Integration--VmlldzoxMTgzNDgxOQ)
+- [WandB Overview of LLMs](https://wandb.ai/mostafaibrahim17/ml-articles/reports/An-Overview-of-Large-Language-Models-LLMs---VmlldzozODA3MzQz)
+- [Webkul: MCP Servers Ecosystem](https://webkul.com/blog/mcp-servers-new-ai-ecosystem/)
+- [Cloudflare: What is LLM?](https://www.cloudflare.com/learning/ai/what-is-large-language-model/)
+- [Descope: Learn MCP](https://www.descope.com/learn/post/mcp)
+- [DevShorts: Build MCP Server](https://www.devshorts.in/p/how-to-build-your-own-mcp-server)
+- [DoiT: Anatomy of an LLM](https://www.doit.com/anatomy-of-an-llm/)
+- [Elastic Search Labs: Local RAG Agent](https://www.elastic.co/search-labs/blog/local-rag-agent-elasticsearch-langgraph-llama3)
+- [Frontiersin: Computational Neuroscience 2022](https://www.frontiersin.org/journals/computational-neuroscience/articles/10.3389/fncom.2022.1006989/full)
+- [Frontiersin: Computational Neuroscience 2024 (1367712)](https://www.frontiersin.org/journals/computational-neuroscience/articles/10.3389/fncom.2024.1367712/full)
+- [Frontiersin: Computational Neuroscience 2024 (1395901)](https://www.frontiersin.org/journals/computational-neuroscience/articles/10.3389/fncom.2024.1395901/full)
+- [Frontiersin: Pharmacology 2024 (1458739)](https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2024.1458739/full)
+- [K2View: LLM Agent Architecture](https://www.k2view.com/blog/llm-agent-architecture/)
+- [K2View: What are LLM Agents?](https://www.k2view.com/what-are-llm-agents/)
+- [LinkedIn: MCP Explained](https://www.linkedin.com/pulse/mcp-explained-how-llms-can-now-use-any-tool-pierre-lemaire-iuwac)
+- [Nature Communications 2023](https://www.nature.com/articles/s41467-023-41553-7)
+- [Nature Scientific Reports 2024 (84325)](https://www.nature.com/articles/s41598-024-84325-z)
+- [PNAS: 2218173120](https://www.pnas.org/doi/10.1073/pnas.2218173120)
+- [Prompting Guide: LLM Agents Research](https://www.promptingguide.ai/research/llm-agents)
+- [ScienceDirect: S0031320320302843](https://www.sciencedirect.com/science/article/abs/pii/S0031320320302843)
+- [ScienceDirect: S0893608021003543](https://www.sciencedirect.com/science/article/pii/S0893608021003543)
+- [ScienceDirect: S1524070324000262](https://www.sciencedirect.com/science/article/pii/S1524070324000262)
+- [ScienceDirect: Neurotransmitter Topic](https://www.sciencedirect.com/topics/chemistry/neurotransmitter)
+- [Simons Foundation: Real Neuron Model](https://www.simonsfoundation.org/2024/06/24/new-computational-model-of-real-neurons-could-lead-to-better-ai/)
+- [SuperAnnotate: LLM Agents](https://www.superannotate.com/blog/llm-agents)
+- [Telecom Review Asia: Brain-Inspired Networks](https://www.telecomreviewasia.com/news/featured-articles/4544-building-brain-inspired-networks-for-the-future)
+
+## Comprehensive Resource Compilation for Brain-Inspired AI
+
+- [ArXiv:2309.05263](https://arxiv.org/abs/2309.05263)
+- [Deepgram: Neuroevolution](https://deepgram.com/ai-glossary/neuroevolution)
+- [Netflix Tech Blog: Distributed Neural Networks](https://netflixtechblog.com/distributed-neural-networks-with-gpus-in-the-aws-cloud-ccf71e82056b)
+- [Stanley EC02 Paper](https://nn.cs.utexas.edu/downloads/papers/stanley.ec02.pdf)
+- [PPL AI File Upload](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/30826882/eb510fd8-42c3-4278-9329-da3e11aadcea/paste-1.txt)
+- [Ross Dawson: Leading BCI Companies](https://rossdawson.com/futurist/companies-creating-future/leading-brain-computer-interface-companies-bci/)
+- [SPJ Research](https://spj.science.org/doi/10.34133/research.0646)
+- [AlphaNome: Neuroevolution Guide](https://www.alphanome.ai/post/neuroevolution-a-guide-for-investors)
+- [CWI: Evolutionary Intelligence](https://www.cwi.nl/en/groups/evolutionary-intelligence/)
+- [ELE Times: Top BCI Companies](https://www.eletimes.com/top-10-brain-computer-interface-companies-in-the-world)
+- [Emergen Research: Deep Learning Solutions](https://www.emergenresearch.com/blog/top-10-leading-companies-that-offer-pioneering-deep-learning-solutions)
+- [IRE Journals](https://www.irejournals.com/formatedpaper/1705504.pdf)
+- [LinkedIn: Brain-Inspired AI Memory Systems](https://www.linkedin.com/pulse/brain-inspired-ai-memory-systems-lessons-from-anand-ramachandran-ku6ee)
+- [PNAS: 2218173120](https://www.pnas.org/doi/10.1073/pnas.2218173120)
+- [ScienceDirect: S295016282300005X](https://www.sciencedirect.com/science/article/pii/S295016282300005X)
+- [Telecom Review Asia: Brain-Inspired Networks](https://www.telecomreviewasia.com/news/featured-articles/4544-building-brain-inspired-networks-for-the-future)
+
+## Evolutionary Neural LLM Architecture
+
+- [IJE Article](https://academic.oup.com/ije/article/30/3/515/736918)
+- [AdaSci: Neural Network Drawings](https://adasci.org/creating-neural-network-architecture-drawings-with-nn-svg/)
+- [AIM Research: Evolution of AI Architecture](https://aimresearch.co/generative-ai/the-evolution-of-ai-architecture-from-traditional-machine-learning-to-generative-ai)
+- [ArXiv:2403.02667](https://arxiv.org/abs/2403.02667)
+- [ArXiv:2502.00829](https://arxiv.org/abs/2502.00829)
+- [GitHub: Evolutionary Architecture](https://github.com/evolutionary-architecture/evolutionary-architecture-by-example)
+- [Neptune AI: GNN Applications](https://neptune.ai/blog/graph-neural-network-and-some-of-gnn-applications)
+- [PMC Article 7218605](https://pmc.ncbi.nlm.nih.gov/articles/PMC7218605/)
+- [Google Research Blog: Evolutionary AutoML](https://research.google/blog/using-evolutionary-automl-to-discover-neural-network-architectures/)
+- [DiVA Portal](https://www.diva-portal.org/smash/get/diva2:1851620/FULLTEXT01.pdf)
+- [Frontiersin: Computational Neuroscience 2023](https://www.frontiersin.org/journals/computational-neuroscience/articles/10.3389/fncom.2023.1092185/full)
+- [Human Brain Project: Brain-Inspired Cognitive Architectures](https://www.humanbrainproject.eu/science-development/focus-areas/brain-inspired-cognitive-architectures/)
+- [Liquid AI: Automated Architecture Synthesis](https://www.liquid.ai/research/automated-architecture-synthesis-via-targeted-evolution)
+- [MDPI: Biotechnology](https://www.mdpi.com/2313-7673/9/10/646)
+- [Microsoft Research Blog: Brain-Inspired Design](https://www.microsoft.com/en-us/research/blog/innovations-in-ai-brain-inspired-design-for-more-capable-and-sustainable-technology/)
+- [Nature Scientific Reports 2023 (37540)](https://www.nature.com/articles/s41598-023-37540-z)
+- [Nature Scientific Reports 2023 (42931)](https://www.nature.com/articles/s41598-023-42931-3)
+- [ScienceDirect: S0950705122006001](https://www.sciencedirect.com/science/article/abs/pii/S0950705122006001)
+- [UpGrad: Neural Network Architecture](https://www.upgrad.com/blog/neural-network-architecture-components-algorithms/)
+- [UpGrad: Types of Artificial Neural Networks](https://www.upgrad.com/blog/types-artificial-neural-networks-in-machine-language/)
+
+## Neural Network Notes
+
+- [RNN Simple Cell vs LSTM Cell](https://ars.els-cdn.com/content/image/1-s2.0-S1364815204001185-gr1.jpg)
+- [Neural Network Diagram](https://miro.medium.com/max/2658/1*Ismhi-muID5ooWf3ZIQFFg.png)
+- [MyGreatLearning](https://www.mygreatlearning.com/)
+- [MyGreatLearning Academy](https://www.mygreatlearning.com/academy)
+- [Introduction to Deep Learning](https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-deep-learning)
+- [Introduction to Natural Language Processing](https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-natural-language-processing)
+- [Introduction to Neural Networks](https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-neural-networks1)
+- [Multilayer Perceptron](https://www.mygreatlearning.com/academy/learn-for-free/courses/multilayer-perceptron)
+- [Backpropagation Algorithm](https://www.mygreatlearning.com/blog/backpropagation-algorithm/)
+- [Building an AI Chatbot](https://www.mygreatlearning.com/blog/basics-of-building-an-artificial-intelligence-chatbot/)
+- [CNN Model Architectures](https://www.mygreatlearning.com/blog/cnn-model-architectures-and-applications/)
+- [Computer Vision Case Study](https://www.mygreatlearning.com/blog/computer-vision-a-case-study-transfer-learning/)
+- [Face Recognition](https://www.mygreatlearning.com/blog/face-recognition/)
+- [Free Download Datasets](https://www.mygreatlearning.com/blog/free-download-datasets/)
+- [IT Using Analytics](https://www.mygreatlearning.com/blog/how-it-is-using-analytics-to-solve-industry-problems/)
+- [Introduction to Image Processing](https://www.mygreatlearning.com/blog/introduction-to-image-processing-what-is-image-processing/)
+- [Introduction to Spectral Clustering](https://www.mygreatlearning.com/blog/introduction-to-spectral-clustering/)
+- [Most Used ML Algorithms in Python](https://www.mygreatlearning.com/blog/most-used-machine-learning-algorithms-in-python/)
+- [Perceptron Learning Algorithm](https://www.mygreatlearning.com/blog/perceptron-learning-algorithm/)
+- [Recurrent Neural Network](https://www.mygreatlearning.com/blog/recurrent-neural-network/)
+- [Speech Recognition in Python](https://www.mygreatlearning.com/blog/speech-recognition-python/)
+- [Vanishing Gradient Problem](https://www.mygreatlearning.com/blog/the-vanishing-gradient-problem/)
+- [Top Speech Recognition Software](https://www.mygreatlearning.com/blog/top-speech-recognition-software/)
+- [Transportation Problem Explained](https://www.mygreatlearning.com/blog/transportation-problem-explained/)
+- [Types of Neural Networks](https://www.mygreatlearning.com/blog/types-of-neural-networks/)
+- [Sentiment Analysis](https://www.mygreatlearning.com/blog/we-used-sentiment-analysis-to-get-more-insights-into-customer-feedback/)
+- [What is Computer Vision?](https://www.mygreatlearning.com/blog/what-is-computer-vision-the-basics/)
+- [What is Deep Learning?](https://www.mygreatlearning.com/blog/what-is-deep-learning/)
+- [Blog Images 1](https://www.mygreatlearning.com/blog/wp-content/uploads/2020/05/Blog-images_21_5_2020-01-1024x683.jpg)
+- [Blog Images 2](https://www.mygreatlearning.com/blog/wp-content/uploads/2020/05/Blog-images_21_5_2020-02-1024x683.jpg)
+- [Blog Images 3](https://www.mygreatlearning.com/blog/wp-content/uploads/2020/05/Blog-images_21_5_2020-03-1024x683.jpg)
+- [Blog NN Info](https://www.mygreatlearning.com/blog/wp-content/uploads/2020/05/Blog-NN-info-22-5-2020-02-min-318x1024.png)
+- [Screenshot](https://www.mygreatlearning.com/blog/wp-content/uploads/2021/09/Screenshot-2022-04-05T120314.852.png)
+- [Image](https://www.mygreatlearning.com/blog/wp-content/uploads/2022/04/image.png)
+- [Types of Neural Network Infographic](https://www.mygreatlearning.com/blog/wp-content/uploads/2022/08/May-5_types-of-neural-network_infographic.png)
+- [PG Program in AI](https://www.mygreatlearning.com/pg-program-artificial-intelligence-course)
+- [RNN vs LSTM](https://www.researchgate.net/figure/RNN-simple-cell-versus-LSTM-cell-4_fig2_317954962)
+
+## Neural Networks Compilation
+
+- [RNN Simple Cell vs LSTM Cell](https://ars.els-cdn.com/content/image/1-s2.0-S1364815204001185-gr1.jpg)
+- [Neural Network Architectures](https://freecontent.manning.com/neural-network-architectures/)
+- [Neural Network Diagram](https://miro.medium.com/max/2658/1*Ismhi-muID5ooWf3ZIQFFg.png)
+- [Spiceworks Facebook](https://www.facebook.com/Spiceworks/)
+- [Spiceworks LinkedIn](https://www.linkedin.com/company/spiceworks//)
+- [MyGreatLearning](https://www.mygreatlearning.com/)
+- [MyGreatLearning Academy](https://www.mygreatlearning.com/academy)
+- [Introduction to Deep Learning](https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-deep-learning)
+- [Introduction to Natural Language Processing](https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-natural-language-processing)
+- [Introduction to Neural Networks](https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-neural-networks1)
+- [Multilayer Perceptron](https://www.mygreatlearning.com/academy/learn-for-free/courses/multilayer-perceptron)
+- [Backpropagation Algorithm](https://www.mygreatlearning.com/blog/backpropagation-algorithm/)
+- [Building an AI Chatbot](https://www.mygreatlearning.com/blog/basics-of-building-an-artificial-intelligence-chatbot/)
+- [CNN Model Architectures](https://www.mygreatlearning.com/blog/cnn-model-architectures-and-applications/)
+- [Computer Vision Case Study](https://www.mygreatlearning.com/blog/computer-vision-a-case-study-transfer-learning/)
+- [Face Recognition](https://www.mygreatlearning.com/blog/face-recognition/)
+- [Free Download Datasets](https://www.mygreatlearning.com/blog/free-download-datasets/)
+- [IT Using Analytics](https://www.mygreatlearning.com/blog/how-it-is-using-analytics-to-solve-industry-problems/)
+- [Introduction to Image Processing](https://www.mygreatlearning.com/blog/introduction-to-image-processing-what-is-image-processing/)
+- [Introduction to Spectral Clustering](https://www.mygreatlearning.com/blog/introduction-to-spectral-clustering/)
+- [Most Used ML Algorithms in Python](https://www.mygreatlearning.com/blog/most-used-machine-learning-algorithms-in-python/)
+- [Perceptron Learning Algorithm](https://www.mygreatlearning.com/blog/perceptron-learning-algorithm/)
+- [Recurrent Neural Network](https://www.mygreatlearning.com/blog/recurrent-neural-network/)
+- [Speech Recognition in Python](https://www.mygreatlearning.com/blog/speech-recognition-python/)
+- [Vanishing Gradient Problem](https://www.mygreatlearning.com/blog/the-vanishing-gradient-problem/)
+- [Top Speech Recognition Software](https://www.mygreatlearning.com/blog/top-speech-recognition-software/)
+- [Transportation Problem Explained](https://www.mygreatlearning.com/blog/transportation-problem-explained/)
+- [Types of Neural Networks](https://www.mygreatlearning.com/blog/types-of-neural-networks/)
+- [Sentiment Analysis](https://www.mygreatlearning.com/blog/we-used-sentiment-analysis-to-get-more-insights-into-customer-feedback/)
+- [What is Computer Vision?](https://www.mygreatlearning.com/blog/what-is-computer-vision-the-basics/)
+- [What is Deep Learning?](https://www.mygreatlearning.com/blog/what-is-deep-learning/)
+- [Blog Images 1](https://www.mygreatlearning.com/blog/wp-content/uploads/2020/05/Blog-images_21_5_2020-01-1024x683.jpg)
+- [Blog Images 2](https://www.mygreatlearning.com/blog/wp-content/uploads/2020/05/Blog-images_21_5_2020-02-1024x683.jpg)
+- [Blog Images 3](https://www.mygreatlearning.com/blog/wp-content/uploads/2020/05/Blog-images_21_5_2020-03-1024x683.jpg)
+- [Blog NN Info](https://www.mygreatlearning.com/blog/wp-content/uploads/2020/05/Blog-NN-info-22-5-2020-02-min-318x1024.png)
+- [Screenshot](https://www.mygreatlearning.com/blog/wp-content/uploads/2021/09/Screenshot-2022-04-05T120314.852.png)
+- [Image](https://www.mygreatlearning.com/blog/wp-content/uploads/2022/04/image.png)
+- [Types of Neural Network Infographic](https://www.mygreatlearning.com/blog/wp-content/uploads/2022/08/May-5_types-of-neural-network_infographic.png)
+- [PG Program in AI](https://www.mygreatlearning.com/pg-program-artificial-intelligence-course)
+- [RNN vs LSTM](https://www.researchgate.net/figure/RNN-simple-cell-versus-LSTM-cell-4_fig2_317954962)
+
+## Peer Reviews
+
+- [ArXiv:2401.10510](https://arxiv.org/abs/2401.10510)
+- [Stanley EC02 Paper](https://nn.cs.utexas.edu/downloads/papers/stanley.ec02.pdf)
+- [OpenReview: ZG3RaNIsO8](https://openreview.net/forum?id=ZG3RaNIsO8)
+- [CWI: Evolutionary Intelligence](https://www.cwi.nl/en/groups/evolutionary-intelligence/)
+- [PNAS: 2218173120](https://www.pnas.org/doi/10.1073/pnas.2218173120)
+- [ScienceDirect: S295016282300005X](https://www.sciencedirect.com/science/article/pii/S295016282300005X)
+- [Telecom Review Asia: Brain-Inspired Networks](https://www.telecomreviewasia.com/news/featured-articles/4544-building-brain-inspired-networks-for-the-future)
+
+## What Is a Neural Network and its Types
+
+- [Neural Network Architectures](https://freecontent.manning.com/neural-network-architectures/)
+- [Spiceworks Facebook](https://www.facebook.com/Spiceworks/)
+- [Spiceworks LinkedIn](https://www.linkedin.com/company/spiceworks//)
+- [Best AI Companies](https://www.spiceworks.com/tech/artificial-intelligence/articles/best-ai-companies/)
+- [Best Machine Learning Books](https://www.spiceworks.com/tech/artificial-intelligence/articles/best-machine-learning-books-to-read/)
+- [Data Science vs Machine Learning](https://www.spiceworks.com/tech/artificial-intelligence/articles/data-science-vs-machine-learning-top-differences/)
+- [Speech Recognition Software](https://www.spiceworks.com/tech/artificial-intelligence/articles/speech-recognition-software/)
+- [Super Artificial Intelligence](https://www.spiceworks.com/tech/artificial-intelligence/articles/super-artificial-intelligence/)
+- [Top ML Algorithms](https://www.spiceworks.com/tech/artificial-intelligence/articles/top-ml-algorithms/)
+- [What is AI?](https://www.spiceworks.com/tech/artificial-intelligence/articles/what-is-ai/)
+- [What is a Neural Network?](https://www.spiceworks.com/tech/artificial-intelligence/articles/what-is-a-neural-network/)
+- [What is Computer Vision?](https://www.spiceworks.com/tech/artificial-intelligence/articles/what-is-computer-vision/)
+- [What is Deep Learning?](https://www.spiceworks.com/tech/artificial-intelligence/articles/what-is-deep-learning/)
+- [What is General AI?](https://www.spiceworks.com/tech/artificial-intelligence/articles/what-is-general-ai/)
+- [What is Linear Regression?](https://www.spiceworks.com/tech/artificial-intelligence/articles/what-is-linear-regression/)
+- [What is ML?](https://www.spiceworks.com/tech/artificial-intelligence/articles/what-is-ml/)
+- [What is Narrow AI?](https://www.spiceworks.com/tech/artificial-intelligence/articles/what-is-narrow-ai/)
+- [AI as a Service](https://www.spiceworks.com/tech/cloud/articles/artificial-intelligence-as-a-service/#)
+- [Top Open Source AI Software](https://www.spiceworks.com/tech/innovation/articles/top-open-source-artificial-intelligence-software/)
+- [Toolbox for B2B](https://x.com/ToolboxforB2B)
+- [Neural Network Architecture Image](https://zd-brightspot.s3.us-east-1.amazonaws.com/wp-content/uploads/2022/05/18113202/The-Architecture-of-a-Neural-Network.png)
+- [Types of Neural Networks Image](https://zd-brightspot.s3.us-east-1.amazonaws.com/wp-content/uploads/2022/05/20050302/Types-of-Neural-Networks.png)

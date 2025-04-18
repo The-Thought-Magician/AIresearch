@@ -1,13 +1,7 @@
----
-created: 2025-04-16T16:31:22 (UTC +05:30)
-tags: [Neural Network]
-source: https://www.spiceworks.com/tech/artificial-intelligence/articles/what-is-a-neural-network/
-author: Hossein Ashtari
----
-
 # What Is a Neural Network and its Types?-
 
 > ## Excerpt
+>
 > Neural networks process data more efficiently and feature improved pattern recognition when compared to traditional computers
 
 ---
@@ -41,10 +35,10 @@ The ability of a neural network to ‘think’ has revolutionized computing as w
 
 Four **critical steps** that neural networks take to operate effectively are:
 
--   **Associating** or training enables neural networks to ‘remember’ patterns. If the computer is shown an unfamiliar pattern, it will associate the pattern with the closest match present in its memory.
--   **Classification** or organizing data or patterns into predefined classes.
--   **Clustering** or the identification of a unique aspect of each data instance to classify it even without any other context present.
--   **Prediction,** or the production of expected results using a relevant input, even when all context is not provided upfront.
+- **Associating** or training enables neural networks to ‘remember’ patterns. If the computer is shown an unfamiliar pattern, it will associate the pattern with the closest match present in its memory.
+- **Classification** or organizing data or patterns into predefined classes.
+- **Clustering** or the identification of a unique aspect of each data instance to classify it even without any other context present.
+- **Prediction,** or the production of expected results using a relevant input, even when all context is not provided upfront.
 
 Neural networks require high throughput to carry out these functions accurately in near real-time. This is achieved by deploying numerous processors to operate parallel to each other, which are arranged in tiers.
 
@@ -130,7 +124,7 @@ Even though their use is restricted in certain jurisdictions, facial recognition
 
 Convolutional neural networks are most commonly used for this application, as this subtype of neural network is apt for image processing. A high volume of images is stored in the database and further processed during learning.
 
-To ensure effective evaluations, sampling layers are used in the neural network. This helps optimize the models and guarantee accurate results. 
+To ensure effective evaluations, sampling layers are used in the neural network. This helps optimize the models and guarantee accurate results.
 
 ### 2\. Finance
 
@@ -192,12 +186,12 @@ Data such as relative humidity, air temperature, solar radiations, and wind spee
 
 Neural networks are a disruptive application of artificial intelligence, allowing the problem-solving powers of deep learning to be used to improve our quality of life. Neural network techniques are increasingly being used to address abstract challenges, such as drug design, natural language processing, and signature verification. As neural networks continue to become faster and more accurate, going ahead, humankind’s technological progress will be bolstered significantly.
 
-**_Did this article help you gain a comprehensive understanding of neural networks? Let us know on_** [**_LinkedIn_**Opens a new window](https://www.linkedin.com/company/spiceworks// "Opens a new window") **_,_** [**_Twitter_**Opens a new window](https://x.com/ToolboxforB2B "Opens a new window") **_, or_** [**_Facebook_**Opens a new window](https://www.facebook.com/Spiceworks/ "Opens a new window") **_!_** 
+**_Did this article help you gain a comprehensive understanding of neural networks? Let us know on_** [**_LinkedIn_**Opens a new window](https://www.linkedin.com/company/spiceworks// "Opens a new window") **_,_** [**_Twitter_**Opens a new window](https://x.com/ToolboxforB2B "Opens a new window") **_, or_** [**_Facebook_**Opens a new window](https://www.facebook.com/Spiceworks/ "Opens a new window") **_!_**
 
 ### **MORE ON AI**
 
--   [Top 10 Open Source Artificial Intelligence Software in 2021](https://www.spiceworks.com/tech/innovation/articles/top-open-source-artificial-intelligence-software/ "Top 10 Open Source Artificial Intelligence Software in 2021")
--   [What Is Super Artificial Intelligence (AI)? Definition, Threats, and Trends](https://www.spiceworks.com/tech/artificial-intelligence/articles/super-artificial-intelligence/ "What Is Super Artificial Intelligence (AI)? Definition, Threats, and Trends")
--   [Data Science vs. Machine Learning: Top 10 Differences](https://www.spiceworks.com/tech/artificial-intelligence/articles/data-science-vs-machine-learning-top-differences/ "Data Science vs. Machine Learning: Top 10 Differences")
--   [15 Best Machine Learning (ML) Books for 2020](https://www.spiceworks.com/tech/artificial-intelligence/articles/best-machine-learning-books-to-read/ "15 Best Machine Learning (ML) Books for 2020")
--   [What Is General Artificial Intelligence (AI)? Definition, Challenges, and Trends](https://www.spiceworks.com/tech/artificial-intelligence/articles/what-is-general-ai/ "What Is General Artificial Intelligence (AI)? Definition, Challenges, and Trends")
+- [Top 10 Open Source Artificial Intelligence Software in 2021](https://www.spiceworks.com/tech/innovation/articles/top-open-source-artificial-intelligence-software/ "Top 10 Open Source Artificial Intelligence Software in 2021")
+- [What Is Super Artificial Intelligence (AI)? Definition, Threats, and Trends](https://www.spiceworks.com/tech/artificial-intelligence/articles/super-artificial-intelligence/ "What Is Super Artificial Intelligence (AI)? Definition, Threats, and Trends")
+- [Data Science vs. Machine Learning: Top 10 Differences](https://www.spiceworks.com/tech/artificial-intelligence/articles/data-science-vs-machine-learning-top-differences/ "Data Science vs. Machine Learning: Top 10 Differences")
+- [15 Best Machine Learning (ML) Books for 2020](https://www.spiceworks.com/tech/artificial-intelligence/articles/best-machine-learning-books-to-read/ "15 Best Machine Learning (ML) Books for 2020")
+- [What Is General Artificial Intelligence (AI)? Definition, Challenges, and Trends](https://www.spiceworks.com/tech/artificial-intelligence/articles/what-is-general-ai/ "What Is General Artificial Intelligence (AI)? Definition, Challenges, and Trends")

@@ -8,7 +8,9 @@
 </head>
 <body>
   <header>
+    <button id="menu-toggle">☰</button>
     <h1>Blog & Docs</h1>
+    <button id="theme-toggle">🌓</button>
   </header>
   <nav>
     <ul>
@@ -46,21 +48,58 @@
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
   <script>
     const main = document.querySelector('main');
+    const themeToggle = document.getElementById('theme-toggle');
+    const menuToggle = document.getElementById('menu-toggle');
+
+    // Theme toggle
+    const saved = localStorage.getItem('theme');
+    if (saved === 'light') document.body.classList.add('light');
+    themeToggle.addEventListener('click', () => {
+      const isLight = document.body.classList.toggle('light');
+      localStorage.setItem('theme', isLight ? 'light' : 'dark');
+    });
+
+    // Mobile menu toggle
+    menuToggle.addEventListener('click', () => {
+      document.body.classList.toggle('nav-open');
+    });
+
     function loadPage(path) {
-      fetch(path)
-        .then(r => r.text())
-        .then(t => {
-          main.innerHTML = marked.parse(t);
-          window.location.hash = path;
-        });
+      const ext = path.split('.').pop().toLowerCase();
+      if (ext === 'md') {
+        fetch(path)
+          .then(r => r.text())
+          .then(t => {
+            main.innerHTML = `<article class="markdown-body">${marked.parse(t)}</article>`;
+            // close mobile nav after page load
+            document.body.classList.remove('nav-open');
+          });
+      } else if (ext === 'pdf') {
+        main.innerHTML = `
+          <iframe src="${path}" class="pdf-viewer"></iframe>
+          <div class="file-download">
+            <p>If the PDF does not display, <a href="${path}" download>download it here</a>.</p>
+          </div>
+        `;
+      } else {
+        const name = path.split('/').pop();
+        main.innerHTML = `
+          <div class="file-download">
+            <p>Download file:</p>
+            <a href="${path}" download>${name}</a>
+          </div>
+        `;
+      }
+      window.location.hash = path;
+      window.scrollTo(0, 0);
     }
+
     document.querySelectorAll('nav a').forEach(a => {
       a.addEventListener('click', e => {
         e.preventDefault();
         loadPage(a.getAttribute('href'));
       });
     });
-    // Load on hash or default
     const initial = window.location.hash.slice(1) || 'README.md';
     loadPage(initial);
   </script>

@@ -6,38 +6,47 @@ This paper presents a theoretical framework for a Distributed Brain-Inspired AI 
 
 ## Repository Contents
 
-This repository contains various documents related to brain-inspired AI architecture research. Here's a guide to help you navigate:
+This repository contains various documents and assets related to brain-inspired AI architecture research. Here's a guide to help you navigate:
 
 ### Main Documents
 
-- **README.md**: This file - The main theoretical framework for DBIAN
-- **Brain-Inspired-Neural-LLM-Architecture.md**: Detailed architectural design combining neural networks with LLMs
-- **Evolutionary-Neural-LLM-Architecture.md**: Extensions of the framework with evolutionary mechanisms
-- **Distributed-Brain-Inspired-AI-Network.md**: Initial concepts of distributed brain-inspired systems
-- **DBIAN-Design-v2.md**: Second iteration of the DBIAN design
-- **DBIAN-Design-v3.md**: Third iteration with refinements and additions
+- README.md: Overview and navigation guide for the repository
+- Brain-Inspired-Neural-LLM-Architecture.md: Detailed architectural design combining neural networks with LLMs
+- Evolutionary-Neural-LLM-Architecture.md: Extensions of the framework with evolutionary mechanisms
+- Distributed-Brain-Inspired-AI-Network.md: Initial concepts of distributed brain-inspired systems
+- DBIAN-Design-v2.md: Second iteration of the DBIAN design
+- DBIAN-Design-v3.md: Third iteration with refinements and additions
+
+### Utilities and Assets
+
+- download_references.py: Script to fetch and manage reference materials
+- index.html: Webpage showcasing project overview
+- styles.css: Stylesheet for project webpage
 
 ### Compilations and Surveys
 
-- **Neural-Networks-Compilation.md**: Comprehensive compilation of neural network types and architectures
-- **Neural-Network-Notes.md**: Concise notes on neural network fundamentals
-- **Comprehensive-Resource-Compilation-for-Brain-Inspired-AI.md**: Curated resources on brain-inspired AI
-- **compiled_report.pdf**: PDF version of compiled research findings
-- **What-Is-a-Neural-Network-and-its-Types.md**: Educational overview of neural network types
+- Neural-Networks-Compilation.md: Comprehensive compilation of neural network types and architectures
+- Neural-Network-Notes.md: Concise notes on neural network fundamentals
+- Comprehensive-Resource-Compilation-for-Brain-Inspired-AI.md: Curated resources on brain-inspired AI
+- What-Is-a-Neural-Network-and-its-Types.md: Educational overview of neural network types
 
 ### Research and Reviews
 
-- **Research-Project.md**: Original research project description and plan
-- **Research-Project.pdf**: PDF version of the research project
-- **Peer-Reviews.md**: Peer reviews and feedback on the DBIAN concept
+- Peer-Reviews.md: Peer reviews and feedback on the DBIAN concept
 
-### External Resources
+### Reference Links
 
-- **articles/**:
-  - Brain-Inspired-AI-Memory-Systems.md: Lessons from neuroscience for advancing AI architecture
-  - Brain-Inspired-AI-Memory-Systems.docx: Word document version of the memory systems article
-- **researchpapers/**:
-  - Neuroscience-Inspired-AI-Paper.pdf: Academic paper supporting the DBIAN framework
+- Reference-Links.md: Curated external references
+- Reference-Links.txt: Plain-text list of reference URLs
+
+### Articles
+
+- articles/Brain-Inspired-AI-Memory-Systems.md: Lessons from neuroscience for advancing AI architecture
+- articles/Brain-Inspired-AI-Memory-Systems.docx: Word document version of the memory systems article
+
+### Research Papers
+
+- researchpapers/Neuroscience-Inspired-AI-Paper.pdf: Academic paper supporting the DBIAN framework
 
 ## 1. Introduction
 

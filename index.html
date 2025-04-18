@@ -8,11 +8,13 @@
 </head>
 <body>
   <header>
-    <button id="menu-toggle">☰</button>
     <h1>Blog & Docs</h1>
-    <button id="theme-toggle">🌓</button>
+    <button id="theme-toggle" aria-label="Toggle theme">🌓</button>
+    <button id="nav-toggle" aria-label="Open navigation" aria-controls="sidebar" aria-expanded="false">
+      <span class="hamburger"></span>
+    </button>
   </header>
-  <nav>
+  <nav id="sidebar" aria-label="Main navigation">
     <ul>
       <li><strong>Pages</strong>
         <ul>
@@ -42,6 +44,7 @@
       </li>
     </ul>
   </nav>
+  <div id="nav-overlay"></div>
   <main>
     <!-- Initial content loaded from README.md -->
   </main>
@@ -49,7 +52,9 @@
   <script>
     const main = document.querySelector('main');
     const themeToggle = document.getElementById('theme-toggle');
-    const menuToggle = document.getElementById('menu-toggle');
+    const navToggle = document.getElementById('nav-toggle');
+    const sidebar = document.getElementById('sidebar');
+    const navOverlay = document.getElementById('nav-overlay');
 
     // Theme toggle
     const saved = localStorage.getItem('theme');
@@ -59,9 +64,27 @@
       localStorage.setItem('theme', isLight ? 'light' : 'dark');
     });
 
-    // Mobile menu toggle
-    menuToggle.addEventListener('click', () => {
-      document.body.classList.toggle('nav-open');
+    // Mobile nav toggle
+    function openNav() {
+      document.body.classList.add('nav-open');
+      navToggle.setAttribute('aria-expanded', 'true');
+    }
+    function closeNav() {
+      document.body.classList.remove('nav-open');
+      navToggle.setAttribute('aria-expanded', 'false');
+    }
+    navToggle.addEventListener('click', () => {
+      if (document.body.classList.contains('nav-open')) {
+        closeNav();
+      } else {
+        openNav();
+      }
+    });
+    navOverlay.addEventListener('click', closeNav);
+
+    // Close nav on link click (mobile)
+    sidebar.addEventListener('click', e => {
+      if (e.target.tagName === 'A' && window.innerWidth <= 900) closeNav();
     });
 
     function loadPage(path) {
@@ -71,7 +94,6 @@
           .then(r => r.text())
           .then(t => {
             main.innerHTML = `<article class="markdown-body">${marked.parse(t)}</article>`;
-            // close mobile nav after page load
             document.body.classList.remove('nav-open');
           });
       } else if (ext === 'pdf') {
@@ -102,6 +124,11 @@
     });
     const initial = window.location.hash.slice(1) || 'README.md';
     loadPage(initial);
+
+    // Optional: close nav on resize to desktop
+    window.addEventListener('resize', () => {
+      if (window.innerWidth > 900) closeNav();
+    });
   </script>
 </body>
 </html>

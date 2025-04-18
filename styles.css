@@ -48,6 +48,7 @@ header {
   background-color: var(--accent-color);
   padding: 1rem 0;
   text-align: center;
+  position: relative;
 }
 
 header h1 {
@@ -64,6 +65,9 @@ nav {
   background-color: var(--bg-color);
   border-right: 1px solid rgba(255,255,255,0.1);
   padding: 1rem;
+  transition: left 0.3s cubic-bezier(.4,0,.2,1);
+  position: relative;
+  z-index: 1001;
 }
 
 nav ul {
@@ -194,49 +198,145 @@ main {
   opacity: 0.9;
 }
 
-/* Mobile Responsive */
-@media (max-width: 768px) {
+/* Hamburger Menu Button */
+#nav-toggle {
+  display: none;
+  position: absolute;
+  top: 1rem;
+  left: 1rem;
+  background: var(--accent-color); /* Blend with top bar */
+  border: none;
+  color: var(--text-color);
+  padding: 0.5rem 0.7rem;
+  border-radius: 4px;
+  cursor: pointer;
+  z-index: 1101;
+  box-shadow: none;
+}
+#nav-toggle .hamburger {
+  display: block;
+  width: 24px;
+  height: 2px;
+  background: var(--text-color);
+  position: relative;
+}
+#nav-toggle .hamburger::before,
+#nav-toggle .hamburger::after {
+  content: '';
+  display: block;
+  width: 24px;
+  height: 2px;
+  background: var(--text-color);
+  position: absolute;
+  left: 0;
+  transition: 0.2s;
+}
+#nav-toggle .hamburger::before {
+  top: -7px;
+}
+#nav-toggle .hamburger::after {
+  top: 7px;
+}
+
+/* Overlay for mobile nav */
+#nav-overlay {
+  display: none;
+  position: fixed;
+  z-index: 1000;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background: rgba(0,0,0,0.4);
+  transition: opacity 0.2s;
+}
+
+/* Responsive Styles */
+@media (max-width: 900px) {
   nav {
     position: fixed;
+    left: -270px;
     top: 0;
-    left: -100%;
-    width: 80%;
     height: 100vh;
+    width: 250px;
     background: var(--bg-color);
-    transition: left 0.3s ease;
-    z-index: 1000;
+    border-right: 1px solid rgba(255,255,255,0.1);
+    z-index: 1100;
+    transition: left 0.3s cubic-bezier(.4,0,.2,1);
+    box-shadow: 2px 0 8px rgba(0,0,0,0.08);
+    padding-top: 4rem;
+    /* Hide nav by default on mobile */
+    visibility: hidden;
+    opacity: 0;
+    pointer-events: none;
   }
   body.nav-open nav {
     left: 0;
+    visibility: visible;
+    opacity: 1;
+    pointer-events: auto;
+  }
+  #nav-toggle {
+    display: block;
+  }
+  #nav-overlay {
+    display: block;
+    opacity: 1;
+  }
+  body.nav-open #nav-overlay {
+    display: block;
+    opacity: 1;
+  }
+  body:not(.nav-open) #nav-overlay {
+    display: none;
+    opacity: 0;
   }
   main {
     margin-left: 0;
     padding: 1rem;
-    padding-top: 60px; /* account for fixed header */
   }
   header {
-    position: fixed;
-    top: 0;
-    width: 100%;
-    z-index: 1001;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: left;
+    padding: 0.75rem 0.5rem 0.75rem 0.5rem;
+    min-height: 56px;
+    position: relative;
   }
-  /* show menu toggle on mobile */
-  #menu-toggle {
-    display: inline-block;
+  header h1 {
+    flex: 1 1 auto;
+    margin: 0;
+    text-align: center;
+    /* Remove font-size here to avoid conflict */
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+  }
+  #nav-toggle {
+    position: static;
+    margin-right: 0.5rem;
+    margin-left: 0;
+    align-self: center;
+    order: 0;
+  }
+  #theme-toggle {
+    position: static;
+    margin-left: 0.5rem;
+    align-self: center;
+    order: 2;
   }
 }
 
-/* Menu Toggle Button */
-#menu-toggle {
-  display: none;
-  background: var(--bg-color);
-  border: 1px solid var(--text-color);
-  color: var(--text-color);
-  padding: 0.3rem 0.6rem;
-  border-radius: 4px;
-  cursor: pointer;
-  margin-right: 0.5rem;
-}
-#menu-toggle:hover {
-  background: var(--accent-color);
+/* Improve readability on small screens */
+@media (max-width: 600px) {
+  .markdown-body {
+    padding: 0.5rem;
+    font-size: 1rem;
+  }
+  header h1 {
+    font-size: 1.7rem;
+  }
+  nav {
+    width: 80vw;
+    min-width: 180px;
+    max-width: 320px;
+    font-size: 1rem;
+  }
 }

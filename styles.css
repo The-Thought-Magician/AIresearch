@@ -1,0 +1,92 @@
+/* styles.css */
+
+/* Color Variables */
+:root {
+  --bg-color: #121212;
+  --text-color: #e0e0e0;
+  --accent-color: #bb86fc;
+  --link-color: #8ab4f8;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    --bg-color: #ffffff;
+    --text-color: #202124;
+    --accent-color: #6200ee;
+    --link-color: #1a73e8;
+  }
+}
+
+/* Base Styles */
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  line-height: 1.6;
+}
+
+a {
+  color: var(--link-color);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Header */
+header {
+  background-color: var(--accent-color);
+  padding: 1rem 0;
+  text-align: center;
+}
+
+header h1 {
+  margin: 0;
+  color: var(--text-color);
+}
+
+/* Navigation */
+nav {
+  width: 250px;
+  float: left;
+  height: calc(100vh - 60px);
+  overflow-y: auto;
+  background-color: var(--bg-color);
+  border-right: 1px solid rgba(255,255,255,0.1);
+  padding: 1rem;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+nav li > strong {
+  display: block;
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+  font-size: 1rem;
+}
+
+nav ul ul {
+  padding-left: 1rem;
+}
+
+nav a {
+  display: block;
+  padding: 0.25rem 0;
+  border-radius: 4px;
+}
+
+nav a:hover {
+  background-color: rgba(255,255,255,0.1);
+}
+
+/* Main Content */
+main {
+  margin-left: 270px;
+  padding: 1.5rem;
+}

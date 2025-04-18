@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Blog & Documentation</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>Blog & Docs</h1>
+  </header>
+  <nav>
+    <ul>
+      <li><strong>Pages</strong>
+        <ul>
+          <li><a href="README.md">Home</a></li>
+          <li><a href="Reference-Links.md">Reference Links</a></li>
+          <li><a href="Research-Project.md">Research Project</a></li>
+          <li><a href="DBIAN-Design-v2.md">DBIAN Design v2</a></li>
+          <li><a href="DBIAN-Design-v3.md">DBIAN Design v3</a></li>
+          <li><a href="Distributed-Brain-Inspired-AI-Network.md">Distributed AI Network</a></li>
+          <li><a href="Peer-Reviews.md">Peer Reviews</a></li>
+          <li><a href="What-Is-a-Neural-Network-and-its-Types.md">Neural Network Types</a></li>
+        </ul>
+      </li>
+      <li><strong>Articles</strong>
+        <ul>
+          <li><a href="articles/Brain-Inspired-AI-Memory-Systems.md">Brain-Inspired AI Memory Systems</a></li>
+        </ul>
+      </li>
+      <li><strong>Tutorials & Notes</strong>
+        <ul>
+          <li><a href="Neural-Network-Notes.md">Neural Network Notes</a></li>
+          <li><a href="Neural-Networks-Compilation.md">Neural Networks Compilation</a></li>
+          <li><a href="Evolutionary-Neural-LLM-Architecture.md">Evolutionary LLM Architecture</a></li>
+          <li><a href="Brain-Inspired-Neural-LLM-Architecture.md">Brain-Inspired LLM Architecture</a></li>
+          <li><a href="Comprehensive-Resource-Compilation-for-Brain-Inspired-AI.md">Comprehensive AI Resources</a></li>
+        </ul>
+      </li>
+    </ul>
+  </nav>
+  <main>
+    <!-- Initial content loaded from README.md -->
+  </main>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script>
+    const main = document.querySelector('main');
+    function loadPage(path) {
+      fetch(path)
+        .then(r => r.text())
+        .then(t => {
+          main.innerHTML = marked.parse(t);
+          window.location.hash = path;
+        });
+    }
+    document.querySelectorAll('nav a').forEach(a => {
+      a.addEventListener('click', e => {
+        e.preventDefault();
+        loadPage(a.getAttribute('href'));
+      });
+    });
+    // Load on hash or default
+    const initial = window.location.hash.slice(1) || 'README.md';
+    loadPage(initial);
+  </script>
+</body>
+</html>

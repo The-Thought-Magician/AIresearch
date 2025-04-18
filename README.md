@@ -4,6 +4,41 @@
 
 This paper presents a theoretical framework for a Distributed Brain-Inspired AI Network (DBIAN), an advanced computational architecture that integrates Large Language Models (LLMs) with neural network principles and biological brain structures. The system is designed as a network of specialized LLM nodes with dedicated tools and memory, communicating through standardized protocols inspired by biological neurotransmission. The architecture incorporates evolutionary features that enable continuous adaptation and optimization. Drawing from neuroscience, evolutionary biology, and cutting-edge AI research, this framework provides a roadmap for developing more adaptive, scalable, and biologically plausible artificial intelligence systems.
 
+## Repository Contents
+
+This repository contains various documents related to brain-inspired AI architecture research. Here's a guide to help you navigate:
+
+### Main Documents
+
+- **README.md**: This file - The main theoretical framework for DBIAN
+- **Brain-Inspired-Neural-LLM-Architecture.md**: Detailed architectural design combining neural networks with LLMs
+- **Evolutionary-Neural-LLM-Architecture.md**: Extensions of the framework with evolutionary mechanisms
+- **Distributed-Brain-Inspired-AI-Network.md**: Initial concepts of distributed brain-inspired systems
+- **DBIAN-Design-v2.md**: Second iteration of the DBIAN design
+- **DBIAN-Design-v3.md**: Third iteration with refinements and additions
+
+### Compilations and Surveys
+
+- **Neural-Networks-Compilation.md**: Comprehensive compilation of neural network types and architectures
+- **Neural-Network-Notes.md**: Concise notes on neural network fundamentals
+- **Comprehensive-Resource-Compilation-for-Brain-Inspired-AI.md**: Curated resources on brain-inspired AI
+- **compiled_report.pdf**: PDF version of compiled research findings
+- **What-Is-a-Neural-Network-and-its-Types.md**: Educational overview of neural network types
+
+### Research and Reviews
+
+- **Research-Project.md**: Original research project description and plan
+- **Research-Project.pdf**: PDF version of the research project
+- **Peer-Reviews.md**: Peer reviews and feedback on the DBIAN concept
+
+### External Resources
+
+- **articles/**:
+  - Brain-Inspired-AI-Memory-Systems.md: Lessons from neuroscience for advancing AI architecture
+  - Brain-Inspired-AI-Memory-Systems.docx: Word document version of the memory systems article
+- **researchpapers/**:
+  - Neuroscience-Inspired-AI-Paper.pdf: Academic paper supporting the DBIAN framework
+
 ## 1. Introduction
 
 ### 1.1 Background and Motivation

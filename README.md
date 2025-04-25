@@ -1,3 +1,15 @@
+> **Note:**
+> The latest and most comprehensive design for this project is described in `DBIAN-Design-v4.md`. Please refer to that document for the most up-to-date architecture, methodology, and theoretical models.
+>
+> **Key updates in v4:**
+> - Nodes are now clustered into functional *suborgans* (brain region analogs), each with its own population, memory, and evolutionary controller.
+> - Each neuron-node is a tool-using LLM agent with a virtual machine and can connect to external Model Context Protocol (MCP) servers.
+> - Suborgans specialize in distinct cognitive/control tasks but collaborate via a global coworking interface.
+> - Rich interneuron communication uses excitatory, inhibitory, and modulatory signals.
+> - The network topology and parameters evolve continuously through genetic-inspired reproduction (two parents produce four offspring with recombined/mutated genomes).
+> - Enhanced mathematical models for communication, memory, and evolution.
+> - Improved modularity, adaptability, and potential for emergent intelligence compared to previous versions.
+
 # Distributed Brain-Inspired AI Network (DBIAN): A Theoretical Framework
 
 ## Abstract
@@ -22,6 +34,7 @@ This repository contains various documents and assets related to brain-inspired 
 - download_references.py: Script to fetch and manage reference materials
 - index.html: Webpage showcasing project overview
 - styles.css: Stylesheet for project webpage
+- image.png: Example image asset for documentation or reference
 
 ### Compilations and Surveys
 
@@ -47,6 +60,8 @@ This repository contains various documents and assets related to brain-inspired 
 ### Research Papers
 
 - researchpapers/Neuroscience-Inspired-AI-Paper.pdf: Academic paper supporting the DBIAN framework
+- Enhanced DBIAN Research Paper and Documentation.markdown: Enhanced DBIAN research paper (Markdown)
+- A Distributed Brain-Inspired AI Network with Suborgan Clustering for Evolutionary Emergent Intelligence.pdf: Distributed DBIAN research paper (PDF)
 
 ## 1. Introduction
 
